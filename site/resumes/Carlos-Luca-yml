@@ -1,0 +1,77 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+  first_name: Carlos Arturo
+  last_name: Luca Gaytan
+  motto: No te preocupes por lo que no está en tu control; céntrate en lo que sí
+    está en tu control y actúa en consecuencia.
+  focus: Liderazgo en Tecnología.
+  summary: >
+    Soy un desarrollador junior que le gusta innovar, tambien ayudar y
+    sumar en nuevos proyectos. Busco incanzablemente mejorar en mi area.
+  avatar: https://ruta/a/tu/foto.jpg
+  email: carloslucca75@gmail.com
+  phone: +52 5521904882
+  website: www.luccadz75.com
+  linkedin: Carlos Luca
+  github: Luccadz75
+  twitter: CarlosLuca
+  languages:
+    - idiom: Español
+      level: Nativo
+    - idiom: Inglés
+      level: Intermedio
+    - idiom: Italiano
+      level: Basico
+  interests:
+    - item: Programación
+    - item: Apredizaje
+    - item: Leer
+education:
+  - degree: Licenciatura en Derecho
+    university: Universidad Autonoma de Guadalajara (UDG)
+    university_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0CHfrFVicfH88VbfneknQoSh9YAjJVbX__hR2J2-XWQ&s
+    time: 2014 - 2019
+    details: Estudie la carrera de derecho y trabaje en RCA Abogados, Despacho
+      Gaytan y tuve mi propio despacho de cobranza.
+  - degree: Licenciatura en Negocios Comercio y Logistica Internacional
+    university: Escuela Bancaria y Comercial EBC
+    university_logo: https://www.ebc.mx/identidad/img/logo-ebc.png
+    time: 2018 - a la fecha
+    details: Sigo cursando la carrera en modalidad ejecutiva.
+  - degree: BootCamp Full Stack Developer
+    university: 4geeks
+    university_logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-rXpsBuf5sW4R4AgIqJmHDSgVWlm_gUOsKs2SdYS62g&s
+    time: 2023 - 2024
+    details: |
+      Desarrollador en diferentes lenguajes de programacion.
+experiences:
+  - role: Abogado/pasante
+    time: 2015 - 2018
+    company: RCA Abogados
+    company_logo: https://media.licdn.com/dms/image/C4E0BAQEDz8fZS0DqQQ/company-logo_200_200/0/1630598873465?e=2147483647&v=beta&t=0ihfhtc8w0NkxJzh5NHMuzTaB0seWOrq1ItJmELMtBo
+    details: |
+      Abogado pasante en la rama penal en CDMX y Jalisco.
+  - role: Administrador
+    time: 2015 - a la fecha
+    company: Agroinsumos Pixcani/ Agroinsumos Palta
+    company_logo: sin logo
+    details: >
+      Administrador general de las empresas hermanas Pixcani/Palta, dedicadas
+      a la comercializacion de agroinsumos en Mexico.
+projects:
+  intro: >
+    Apenas estoy comenzando en el mundo de desarrollo web, en el siguiente
+    link se pueden encontrar mis diferentes proyectos que he realizado dentro de
+    mi bootcamp https://github.com/Luccadz75
+skills:
+  toolset:
+    - name: Python
+      level: 30%
+    - name: JavaScript & jQuery
+      level: 30%
+    - name: HTML5 & CSS
+      level: 90%
+    - name: SQL
+      level: 20%
